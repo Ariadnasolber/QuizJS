@@ -1,0 +1,101 @@
+[
+    {
+        "pregunta": "¿Cuál es el nombre del equipo de voleibol de la escuela secundaria Karasuno?",
+        "opciones": {
+            "a": "Nekoma",
+            "b": "Aoba Johsai",
+            "c": "Karasuno"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿Quién es el capitán del equipo de Karasuno?",
+        "opciones": {
+            "a": "Shoyo Hinata",
+            "b": "Daichi Sawamura",
+            "c": "Tobio Kageyama"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué posición juega Shoyo Hinata en el equipo?",
+        "opciones": {
+            "a": "Líbero",
+            "b": "Colocador",
+            "c": "Rematador"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿Cuál es el apodo de Tobio Kageyama?",
+        "opciones": {
+            "a": "Rey de la pista",
+            "b": "El príncipe del voley",
+            "c": "El As del Karasuno"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Qué equipo es el rival tradicional de Karasuno?",
+        "opciones": {
+            "a": "Fukurodani",
+            "b": "Nekoma",
+            "c": "Shiratorizawa"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Quién es el entrenador principal del equipo de Karasuno?",
+        "opciones": {
+            "a": "Keishin Ukai",
+            "b": "Ittetsu Takeda",
+            "c": "Nobuteru Iraahata"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Qué número de camiseta usa Shoyo Hinata?",
+        "opciones": {
+            "a": "11",
+            "b": "8",
+            "c": "10"
+        },
+        "respuesta_correcta": "c"
+    },
+    {
+        "pregunta": "¿Qué jugador de Karasuno es conocido por su habilidad en el bloqueo?",
+        "opciones": {
+            "a": "Kei Tsukishima",
+            "b": "Yu Nishinoia",
+            "c": "Asahi Azumane"
+        },
+        "respuesta_correcta": "a"
+    },
+    {
+        "pregunta": "¿Cuál es el apodo de Shoyo Hinata?",
+        "opciones": {
+            "a": "As del Karasuno",
+            "b": "Pequeño Gigante",
+            "c": "Rey de la Pista"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del capitán del equipo de Nekoma?",
+        "opciones": {
+            "a": "Kenma Kozume",
+            "b": "Tetsurô Kuroo",
+            "c": "Lev Haiba"
+        },
+        "respuesta_correcta": "b"
+    },
+    {
+        "pregunta": "¿Qué equipo derrota a Karasuno en el torneo Interhigh?",
+        "opciones": {
+            "a": "Aoba Jhosai",
+            "b": "Date Tec",
+            "c": "Shiratorizawa"
+        },
+        "respuesta_correcta": "a"
+    }
+]

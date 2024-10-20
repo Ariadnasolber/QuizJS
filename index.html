@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" type="text/css" href="style/style.css" />
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Quiz</title>
+    </head>
+    <body>
+        <div>
+            <div class="wallpaper">
+                <img id="wallpaper" src="img/haikyuu3.png" />
+            </div>
+            <div class="cabecera">
+                <h1 id="titulo">HAIKYUU QUIZ</h1>
+            </div>
+            <div class="container">
+                <div class="acess">
+                    <p>TU NOMBRE</p>
+                    <input
+                        placeholder=" . . . "
+                        class="acess-input"
+                        name="name"
+                        type="text"
+                        id="name-input"
+                    />
+                    <button id="start-btn" class="submit-btn">EMPEZAR</button>
+                </div>
+                <div class="quiz"></div>
+            </div>
+        </div>
+        <div class="alert-container" id="alertContainer">
+            <div class="alert-box">
+                <p id="alertMessage">
+                    Por favor, introduce tu nombre para continuar.
+                </p>
+                <button id="closeAlertBtn">Cerrar</button>
+            </div>
+        </div>
+        <script src="script.js"></script>
+        <script src="quiz.js"></script>
+    </body>
+</html>
